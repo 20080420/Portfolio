@@ -20,6 +20,7 @@ def print_start(): #game heaading
     print("       RED    ORANGE    YELLOW    GREEN    BLUE    PURPLE")
     print("__________________________________________________________________________")
     print("Please enter codes to represent the colors as below:")
+    print(" ")
     print("1:'RED', 2:'ORANGE', 3:'YELLOW', 4:'GREEN', 5:'BLUE', 6:'PURPLE'")
     print("Example: YELLOW RED BLUE PURPLE --> 3 1 5 6")
     print(" ")
