@@ -4,7 +4,7 @@ import random
 def intro():
   print("++++++++++++++++++++++++++++++++++++++++")
   print("+        Master Mind with Fruits       +")
-  print("+      made by Josiah Foo Chuan Zhi    +")
+  print("+         made by Rachel Foo           +")
   print("++++++++++++++++++++++++++++++++++++++++")
   print("+               Tutorial               +")
   print("+ 1)The game will generate 4 fruits    +")
@@ -114,6 +114,5 @@ while game == True:
                    ansfruit = random.choices(availfruits, k=4)
                    print(ansfruit)
                    game = True
-
 
 
